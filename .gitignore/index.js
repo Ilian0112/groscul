@@ -120,4 +120,4 @@ bot.on("message", async function(message) {
     }
 });
 
-bot.login(process.env.SECRET);
+bot.login(process.env.TOKEN);
